@@ -5589,3 +5589,5 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+- [PolyClawster](https://github.com/al1enjesus/polyclawster) — AI agent for autonomous Polymarket prediction market trading. Tracks 200+ whale wallets, scores signals 0-10, places trades non-custodially. OpenClaw skill with public leaderboard.
