@@ -801,6 +801,7 @@ Coding
 - Pre-built Docker image provides safe execution environment for code generation/execution
 - Support for telephony applications (via BlandAI)
 - Support for stock trading (via Alpaca Markets)
+- [PolyClawster](https://github.com/al1enjesus/polyclawster) - AI agent skill for trading on Polymarket prediction markets. Non-custodial, whale signal detection, public leaderboard. Works as OpenClaw skill or Telegram Mini App.
 - Integrates with Gmail and Google Search
 - Easy to install `pip install bondai`
 - To start the CLI just run `bondai`
